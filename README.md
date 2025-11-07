@@ -1,2 +1,2 @@
 # JOptionPane
-Bem vindo(a) ao JOptionPane 
+Bem vindo ao JOptionPane 
